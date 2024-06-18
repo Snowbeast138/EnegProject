@@ -3,6 +3,8 @@ import Title from "../../components/Title";
 import Paragraph from "../../components/Paragraph";
 import { Image } from "primereact/image";
 
+//TODO:add respective images to the Image components
+
 function Problematizacion_template() {
   return (
     <div>
