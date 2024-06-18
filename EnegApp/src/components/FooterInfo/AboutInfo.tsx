@@ -13,6 +13,15 @@ function AboutInfo() {
         minuciosamente consignadas en la sección correspondiente de apéndice de
         licencias.
       </p>
+      <p style={{ fontWeight: "bold" }}>Autores:</p>
+      <ul>
+        <li style={{ fontWeight: "bold" }}>Iveth de Jesus Garcia Delanda</li>
+        <li style={{ fontWeight: "bold" }}>Danna Paloma Monterde Enciso</li>
+        <li style={{ fontWeight: "bold" }}>
+          Liliana Carolina Plascencia Ornelas
+        </li>
+        <li style={{ fontWeight: "bold" }}>Valeria Ramirez Palacios </li>
+      </ul>
     </div>
   );
 }
