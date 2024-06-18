@@ -40,7 +40,7 @@ function FooterBar() {
       </Dialog>
 
       <Dialog
-        header="Licencias:"
+        header="Referencias Bibliográficas:"
         visible={visibleLicensing}
         maximizable
         style={{ width: "90vw" }}
