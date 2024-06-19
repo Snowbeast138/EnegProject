@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from "react";
 import Title from "../../components/Title";
 import { Galleria } from "primereact/galleria";
 import { PhotoService } from "./PhotoService";
+import { useEffect, useState } from "react";
 
 function Galeria_template() {
   const [images, setImages] = useState(null);
@@ -29,7 +29,10 @@ function Galeria_template() {
     PhotoService.getImages().then((data) => setImages(data));
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const itemTemplate = (item) => {
+  const itemTemplate = (item: {
+    itemImageSrc: string | undefined;
+    alt: string | undefined;
+  }) => {
     return (
       <img
         src={item.itemImageSrc}
@@ -39,7 +42,10 @@ function Galeria_template() {
     );
   };
 
-  const thumbnailTemplate = (item) => {
+  const thumbnailTemplate = (item: {
+    thumbnailImageSrc: string | undefined;
+    alt: string | undefined;
+  }) => {
     return (
       <img
         src={item.thumbnailImageSrc}

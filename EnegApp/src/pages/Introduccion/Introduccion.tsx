@@ -1,4 +1,3 @@
-import React from "react";
 import Introduccion_template from "./Introduccion_template";
 import FooterBar from "../../components/FooterBar";
 import Navbar from "../../components/NavBar";

@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "../../components/NavBar";
 import Galeria_template from "./Galeria_template";
 import FooterBar from "../../components/FooterBar";

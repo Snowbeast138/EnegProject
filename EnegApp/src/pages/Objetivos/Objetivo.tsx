@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "../../components/NavBar";
 import FooterBar from "../../components/FooterBar";
 import Objetivo_template from "./Objetivo_template";

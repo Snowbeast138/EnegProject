@@ -1,4 +1,3 @@
-import React from "react";
 import Problematizacion_template from "./Problematizacion_template";
 import FooterBar from "../../components/FooterBar";
 import Navbar from "../../components/NavBar";

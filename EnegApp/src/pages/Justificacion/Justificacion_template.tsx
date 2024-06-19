@@ -1,4 +1,3 @@
-import React from "react";
 import Title from "../../components/Title";
 import Paragraph from "../../components/Paragraph";
 import { DataTable } from "primereact/datatable";

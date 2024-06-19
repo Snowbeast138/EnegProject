@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "../../components/NavBar";
 import Hipotesis_template from "./Hipotesis_template";
 import FooterBar from "../../components/FooterBar";

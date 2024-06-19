@@ -1,4 +1,3 @@
-import React from "react";
 import Title from "../../components/Title";
 import Paragraph from "../../components/Paragraph";
 import { Accordion, AccordionTab } from "primereact/accordion";

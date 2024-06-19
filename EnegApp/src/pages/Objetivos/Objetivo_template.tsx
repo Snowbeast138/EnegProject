@@ -1,8 +1,7 @@
-import React from "react";
 import Title from "../../components/Title";
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
-import { Image } from "primereact/image";
+
 import Paragraph from "../../components/Paragraph";
 import Video from "../../components/Video";
 

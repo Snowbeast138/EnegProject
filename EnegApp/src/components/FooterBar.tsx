@@ -1,10 +1,10 @@
-import React, { useState } from "react";
 import { Dialog } from "primereact/dialog";
 import { Button } from "primereact/button";
 import { Footer } from "flowbite-react";
 import PolicityInfo from "./FooterInfo/PolicityInfo";
 import LicensingInfo from "./FooterInfo/LicensingInfo";
 import AboutInfo from "./FooterInfo/AboutInfo";
+import { useState } from "react";
 
 function FooterBar() {
   const [visibleAbout, setVisibleAbout] = useState(false);

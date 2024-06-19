@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "../../components/NavBar";
 import PropuestaMejora_template from "./PropuestaMejora_template";
 import FooterBar from "../../components/FooterBar";
