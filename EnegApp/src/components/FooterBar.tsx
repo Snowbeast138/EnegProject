@@ -1,14 +1,14 @@
 import { Dialog } from "primereact/dialog";
 import { Button } from "primereact/button";
 import { Footer } from "flowbite-react";
-import PolicityInfo from "./FooterInfo/PolicityInfo";
+// import PolicityInfo from "./FooterInfo/PolicityInfo";
 import LicensingInfo from "./FooterInfo/LicensingInfo";
 import AboutInfo from "./FooterInfo/AboutInfo";
 import { useState } from "react";
 
 function FooterBar() {
   const [visibleAbout, setVisibleAbout] = useState(false);
-  const [visiblePrivacity, setVisiblePrivacity] = useState(false);
+  // const [visiblePrivacity, setVisiblePrivacity] = useState(false);
   const [visibleLicensing, setVisibleLicensing] = useState(false);
 
   const buttonStyle = {
@@ -28,7 +28,7 @@ function FooterBar() {
         <AboutInfo />
       </Dialog>
 
-      <Dialog
+      {/* <Dialog
         header="Políticas de Privacidad:"
         visible={visiblePrivacity}
         maximizable
@@ -37,7 +37,7 @@ function FooterBar() {
         onHide={() => setVisiblePrivacity(false)}
       >
         <PolicityInfo />
-      </Dialog>
+      </Dialog> */}
 
       <Dialog
         header="Referencias Bibliográficas:"
@@ -60,12 +60,12 @@ function FooterBar() {
                 style={buttonStyle}
                 onClick={() => setVisibleAbout(true)}
               />
-              <Button
+              {/* <Button
                 label="Políticas de Privacidad"
                 link
                 style={buttonStyle}
                 onClick={() => setVisiblePrivacity(true)}
-              />
+              /> */}
               <Button
                 label="Referencias Bibliográficas"
                 link
