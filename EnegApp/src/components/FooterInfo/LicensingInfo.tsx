@@ -1,36 +1,46 @@
-import { Button } from "primereact/button";
-import React from "react";
-
 function LicensingInfo() {
   return (
     <div>
       <ul style={{ listStyle: "initial", marginLeft: "50px" }} className="m-10">
         <li style={{ fontWeight: "bold" }}>
-          <p>
-            Luna, J. A., Hernández, I., Rojas, & Cadena, M. C. (2013). Estado
-            nutricional neurodesarrollo en la primera infancia [Tesis].
-          </p>
-          <Button label="Políticas de Privacidad" link />
+          Luna, J. A., Hernández, I., Rojas, & Cadena, M. C. (2013). Estado
+          nutricional neurodesarrollo en la primera infancia [Tesis].
         </li>
         <li style={{ fontWeight: "bold" }}>
-          Escalabilidad: se puede aumentar la capacidad de clientes y servidores
-          por separado. Cualquier elemento puede ser aumentado (o mejorado) en
-          cualquier momento, o se pueden añadir nuevos nodos a la red (clientes
-          y/o servidores).
+          https://www.gob.mx/promosalud/es/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es
         </li>
         <li style={{ fontWeight: "bold" }}>
-          Fácil mantenimiento: al estar distribuidas las funciones y
-          responsabilidades entre varios ordenadores independientes, es posible
-          reemplazar, reparar, actualizar, o incluso trasladar un servidor,
-          mientras que sus clientes no se verán afectados por ese cambio (o se
-          afectarán mínimamente). Esta independencia de los cambios también se
-          conoce como encapsulación.
+          https://ensanut.insp.mx/encuestas/ensanutcontinua2021/informes.php
         </li>
         <li style={{ fontWeight: "bold" }}>
-          {" "}
-          Existen tecnologías, suficientemente desarrolladas, diseñadas para el
-          paradigma de C/S que aseguran la seguridad en las transacciones, la
-          amigabilidad de la interfaz, y la facilidad de empleo.
+          Kvale, 2008, Las entrevistas en investigación cualitativa. p. 37-39
+        </li>
+        <li>
+          Suárez, Ochoa, Dávila, s.f, MANUAL DE CAPACITACIÓN SOBRE REGISTRO Y
+          SISTEMATIZACIÓN DE EXPERIENCIAS PEDAGÓGICA La documentación narrativa
+          de experiencias escolares. p. 23
+        </li>
+        <li>
+          Red de Malnutrición en Iberoamérica del Programa de Ciencia y
+          Tecnología para el Desarrollo. (2008). Análisis de determinantes
+          sociales de la desnutrición en Latinoamérica. Nutrición Hospitalaria,
+          25. https://scielo.isciii.es/scielo.php?pid=S0212-16112010000900003
+          script=sci_arttext
+        </li>
+        <li>
+          La mala alimentación está perjudicando la salud de la infancia
+          mundialmente. (s.
+          f.).https://www.unicef.org/mexico/comunicados-prensa/la-mala-alimentaci%C3%B3n-est%C3%A1-perjudicando-la-salud-de-la-infancia-mundialmente
+        </li>
+        <li>
+          La mala alimentación perjudica la salud de los niños en todo el mundo,
+          advierte UNICEF. (s. f.).
+          https://www.unicef.org/es/comunicados-prensa/la-mala-alimentaci%C3%B3n-perjudica-la-salud-de-los-ni%C3%B1os-en-todo-el-mundo-advierte
+        </li>
+        <li>
+          Efecto de la mala nutrición en los primeros años de vida. (2020, 23
+          noviembre). Alimentación y Salud.
+          https://alimentacionysalud.unam.mx/efecto-de-la-mala-nutricion-en-los-primeros-anos-de-vida/
         </li>
       </ul>
     </div>
