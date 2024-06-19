@@ -43,7 +43,7 @@ function Problematizacion_template() {
             }}
           >
             <Image
-              src="https://th.bing.com/th/id/OIG4.21zzfbjJoOBGmRWwbMAn?w=1024&h=1024&rs=1&pid=ImgDetMain"
+              src="https://tse2.mm.bing.net/th?id=OIG3.lc.ADkDmcUXtUFbDj_qD&pid=ImgGn"
               alt="Image"
               preview
             />

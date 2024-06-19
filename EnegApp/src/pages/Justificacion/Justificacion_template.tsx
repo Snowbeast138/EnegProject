@@ -6,8 +6,6 @@ import { Column } from "primereact/column";
 import { Image } from "primereact/image";
 import { Accordion, AccordionTab } from "primereact/accordion";
 
-//TODO: Add Images with respective topic of the page
-
 const enfermedades = [
   {
     enfermedad: "Anemia ",
@@ -107,7 +105,7 @@ function Justificacion_template() {
             }}
           >
             <Image
-              src="https://th.bing.com/th/id/OIG4.21zzfbjJoOBGmRWwbMAn?w=1024&h=1024&rs=1&pid=ImgDetMain"
+              src="https://tse4.mm.bing.net/th?id=OIG4.7oz8GaSKClOem29vOhT8&pid=ImgGn"
               alt="Image"
               preview
             />
@@ -156,7 +154,7 @@ function Justificacion_template() {
             }}
           >
             <Image
-              src="https://th.bing.com/th/id/OIG4.21zzfbjJoOBGmRWwbMAn?w=1024&h=1024&rs=1&pid=ImgDetMain"
+              src="https://tse1.mm.bing.net/th?id=OIG2.LEy_P82GhpGrk2aqVaZ2&pid=ImgGn"
               alt="Image"
               preview
             />
