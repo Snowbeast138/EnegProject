@@ -21,9 +21,10 @@ function PropuestaMejora_template() {
           <AccordionTab header="Propuesta de mejora relacionada a la materia de Inglés: Comunicación básica">
             <Panel header="Objective:" toggleable>
               <p className="m-0">
-                Students should be able to identify what a good diet should be
-                like and be aware themselves of what are healthy and unhealthy
-                foods, so that they can acquire good eating habits.
+                Preschool students should be able to identify what a good diet
+                should be like and be aware of what are healthy and unhealthy
+                foods, so that they can acquire good eating habits through the
+                use of gameboards, videos and songs about good habits.
               </p>
             </Panel>
             <Panel header="PDA:" toggleable>
@@ -35,6 +36,11 @@ function PropuestaMejora_template() {
               </p>
             </Panel>
             <Panel header="Warm up:" toggleable>
+              <Panel>
+                The purpose of this activity is that preschool students are able
+                to identify the different kinds of foods and recognize if they
+                are having a good diet and good habits.
+              </Panel>
               <ul className="px-5 list-disc">
                 <p>Question time:</p>
                 <li>Do you know about healthy foods?</li>
