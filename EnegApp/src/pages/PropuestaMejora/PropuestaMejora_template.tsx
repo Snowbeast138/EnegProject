@@ -242,43 +242,48 @@ function PropuestaMejora_template() {
               que sustente y abone a la misma, pero primordialmente la materia
               brinda las herramientas necesarias para identificar la
               problemática. A continuación se muestran algunas de estas
-              herramientas. Una de las principales herramientas utilizadas en
-              este proyecto es la entrevista, Kvale nos dice que “La entrevista
-              cualitativa es un camino clave para explorar la forma en que los
-              sujetos experimentan y entienden su mundo. Proporciona un acceso
-              único al mundo vivido de los sujetos, que describen en sus propias
-              palabras sus actividades, experiencias y opiniones”. (Kvale, 2008)
-              es por esto que se entrevistó a las diferentes personalidades que
-              se encuentran en el preescolar, con la intención de recabar
-              información importante para el proyecto. Para sustentar más a
-              fondo lo dicho anteriormente Kavale nos dice también que “La
-              entrevista es una conversación que tiene una estructura y un
-              propósito determinados por una parte: el entrevistador. Es una
-              interacción profesional que va más allá del intercambio espontáneo
-              de ideas como en la conversación cotidiana y se convierte en un
-              acercamiento basado en el interrogatorio cuidadoso y la escucha
-              con el propósito de obtener conocimiento meticulosamente
-              comprobado”. (Kvale, 2008) Otra de las herramientas utilizadas es
-              la documentación narrativa, la cual según el manual de
-              capacitación sobre registro y sistematización de experiencias
-              pedagógicas se entiende como “La competencia del narrador de
-              experiencias escolares consiste, entonces, en seleccionar los
-              argumentos, los datos, las sensaciones, y en disponer las formas
-              de lenguaje que provocan las imágenes de esa experiencia en el
-              lector de manera inteligente. Tomar palabras e imágenes de eso que
-              pasó y nos pasó para que un/a otro/a docente lector se encuentre
-              en ese relato, y que nuestra experiencia lo conmueva a él. Y lo
-              conmueva transformando, agregando, movilizando su pensamiento y su
-              acción; promoviendo, apoyando o cuestionando su práctica diaria.”
-              (Suárez, Ochoa, Dávila, s.f) esta documentación narrativa es de
-              suma importancia para el desarrollo de la problemática, pues es de
-              gran ayuda para presentarla ante el público de forma conmovedora,
-              provocando así, un impacto en los lectores. Finalmente se puede
-              concluir que en esta materia hay gran cantidad de lecturas que
-              pueden aportar demasiado al desarrollo de la problemática, pero,
-              aún con todo esto se tomaron las dos anteriores como principal
-              apoyo del proyecto pues son las que brindan una mayor área de
-              oportunidad al desarrollar el trabajo.
+              herramientas. La principal herramienta utilizada durante este
+              proyecto es la observación, porque en primera instancia es
+              requerido el observar o analizar el entorno en el se encuentra
+              para así rescatar algún problema con la finalidad de buscar
+              posibles soluciones. Otra de las principales herramientas
+              utilizadas en este proyecto es la entrevista, Kvale nos dice que
+              “La entrevista cualitativa es un camino clave para explorar la
+              forma en que los sujetos experimentan y entienden su mundo.
+              Proporciona un acceso único al mundo vivido de los sujetos, que
+              describen en sus propias palabras sus actividades, experiencias y
+              opiniones”. (Kvale, 2008) es por esto que se entrevistó a las
+              diferentes personalidades que se encuentran en el preescolar, con
+              la intención de recabar información importante para el proyecto.
+              Para sustentar más a fondo lo dicho anteriormente Kavale nos dice
+              también que “La entrevista es una conversación que tiene una
+              estructura y un propósito determinados por una parte: el
+              entrevistador. Es una interacción profesional que va más allá del
+              intercambio espontáneo de ideas como en la conversación cotidiana
+              y se convierte en un acercamiento basado en el interrogatorio
+              cuidadoso y la escucha con el propósito de obtener conocimiento
+              meticulosamente comprobado”. (Kvale, 2008) Por último otra de las
+              herramientas utilizadas es la documentación narrativa, la cual
+              según el manual de capacitación sobre registro y sistematización
+              de experiencias pedagógicas se entiende como “La competencia del
+              narrador de experiencias escolares consiste, entonces, en
+              seleccionar los argumentos, los datos, las sensaciones, y en
+              disponer las formas de lenguaje que provocan las imágenes de esa
+              experiencia en el lector de manera inteligente. Tomar palabras e
+              imágenes de eso que pasó y nos pasó para que un/a otro/a docente
+              lector se encuentre en ese relato, y que nuestra experiencia lo
+              conmueva a él. Y lo conmueva transformando, agregando, movilizando
+              su pensamiento y su acción; promoviendo, apoyando o cuestionando
+              su práctica diaria.” (Suárez, Ochoa, Dávila, s.f) esta
+              documentación narrativa es de suma importancia para el desarrollo
+              de la problemática, pues es de gran ayuda para presentarla ante el
+              público de forma conmovedora, provocando así, un impacto en los
+              lectores. Finalmente se puede concluir que en esta materia hay
+              gran cantidad de lecturas y herramientas que pueden aportar
+              demasiado al desarrollo de la problemática, pero, aún con todo
+              esto se tomaron las tres anteriores como principal apoyo del
+              proyecto pues son las que brindan una mayor área de oportunidad al
+              desarrollar el trabajo.
             </p>
           </AccordionTab>
           <AccordionTab header="Propuesta de mejora relacionada a la  materia de Estudio del mundo natural y social desde la comunidad">
