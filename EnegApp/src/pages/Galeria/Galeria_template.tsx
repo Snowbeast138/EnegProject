@@ -34,7 +34,7 @@ function Galeria_template() {
       <img
         src={item.itemImageSrc}
         alt={item.alt}
-        style={{ width: "50%", display: "block" }}
+        style={{ width: "65%", display: "block" }}
       />
     );
   };
@@ -57,14 +57,14 @@ function Galeria_template() {
             display: flex;
             justify-content: center;
             align-items: center;
-            min-height: 50vh;
+            min-height: 65vh;
             text-align: center;
             padding: 20px;
             box-sizing: border-box;
           }
 
           .galleria-container .p-galleria {
-            max-width: 50%;
+            max-width: 65%;
           }
         `}
       </style>
@@ -77,10 +77,10 @@ function Galeria_template() {
           circular
           style={{ maxWidth: "800px" }}
           item={itemTemplate}
+          thumbnail={thumbnailTemplate}
           showItemNavigators
           showItemNavigatorsOnHover
           showIndicators
-          showThumbnails={false}
           autoPlay
           transitionInterval={2000}
         />
