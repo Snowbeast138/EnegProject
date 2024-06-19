@@ -59,7 +59,7 @@ function Problematizacion_template() {
             }}
           >
             <Image
-              src="https://th.bing.com/th/id/OIG4.21zzfbjJoOBGmRWwbMAn?w=1024&h=1024&rs=1&pid=ImgDetMain"
+              src="https://i.ibb.co/MfGKCqj/Imagen-de-Whats-App-2024-06-18-a-las-20-06-58-d0733b86.jpg"
               alt="Image"
               preview
             />
@@ -137,7 +137,7 @@ function Problematizacion_template() {
             }}
           >
             <Image
-              src="https://th.bing.com/th/id/OIG4.21zzfbjJoOBGmRWwbMAn?w=1024&h=1024&rs=1&pid=ImgDetMain"
+              src="https://i.ibb.co/Bfm84h2/Imagen-de-Whats-App-2024-06-18-a-las-20-06-58-341d7013.jpg"
               alt="Image"
               preview
             />
